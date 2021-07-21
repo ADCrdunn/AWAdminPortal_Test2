@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SensorGroupDemo_Test2",
+    "slug": "SensorGroupDemo_Test2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SensorGroupDemo_Test2"
+}
