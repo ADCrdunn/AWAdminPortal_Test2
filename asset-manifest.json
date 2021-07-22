@@ -1,19 +1,19 @@
 {
   "files": {
-    "app.js": "/ADCrdunn/AWAdminPortal_Test2/static/js/app.0219051a.chunk.js",
-    "app.js.map": "/ADCrdunn/AWAdminPortal_Test2/static/js/app.0219051a.chunk.js.map",
-    "runtime~app.js": "/ADCrdunn/AWAdminPortal_Test2/static/js/runtime~app.16f87fce.js",
-    "runtime~app.js.map": "/ADCrdunn/AWAdminPortal_Test2/static/js/runtime~app.16f87fce.js.map",
-    "static/js/2.93ce4d6f.chunk.js": "/ADCrdunn/AWAdminPortal_Test2/static/js/2.93ce4d6f.chunk.js",
-    "static/js/2.93ce4d6f.chunk.js.map": "/ADCrdunn/AWAdminPortal_Test2/static/js/2.93ce4d6f.chunk.js.map",
-    "index.html": "/ADCrdunn/AWAdminPortal_Test2/index.html",
-    "manifest.json": "/ADCrdunn/AWAdminPortal_Test2/manifest.json",
-    "serve.json": "/ADCrdunn/AWAdminPortal_Test2/serve.json",
-    "static/js/2.93ce4d6f.chunk.js.LICENSE.txt": "/ADCrdunn/AWAdminPortal_Test2/static/js/2.93ce4d6f.chunk.js.LICENSE.txt"
+    "app.js": "/AWAdminPortal_Test2/static/js/app.0219051a.chunk.js",
+    "app.js.map": "/AWAdminPortal_Test2/static/js/app.0219051a.chunk.js.map",
+    "runtime~app.js": "/AWAdminPortal_Test2/static/js/runtime~app.cb952cc0.js",
+    "runtime~app.js.map": "/AWAdminPortal_Test2/static/js/runtime~app.cb952cc0.js.map",
+    "static/js/2.9f9e9e6f.chunk.js": "/AWAdminPortal_Test2/static/js/2.9f9e9e6f.chunk.js",
+    "static/js/2.9f9e9e6f.chunk.js.map": "/AWAdminPortal_Test2/static/js/2.9f9e9e6f.chunk.js.map",
+    "index.html": "/AWAdminPortal_Test2/index.html",
+    "manifest.json": "/AWAdminPortal_Test2/manifest.json",
+    "serve.json": "/AWAdminPortal_Test2/serve.json",
+    "static/js/2.9f9e9e6f.chunk.js.LICENSE.txt": "/AWAdminPortal_Test2/static/js/2.9f9e9e6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.16f87fce.js",
-    "static/js/2.93ce4d6f.chunk.js",
+    "static/js/runtime~app.cb952cc0.js",
+    "static/js/2.9f9e9e6f.chunk.js",
     "static/js/app.0219051a.chunk.js"
   ]
 }
