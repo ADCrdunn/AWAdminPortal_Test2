@@ -1,19 +1,31 @@
 {
   "files": {
-    "app.js": "/AWAdminPortal_Test2/static/js/app.0219051a.chunk.js",
-    "app.js.map": "/AWAdminPortal_Test2/static/js/app.0219051a.chunk.js.map",
+    "app.js": "/AWAdminPortal_Test2/static/js/app.983ee656.chunk.js",
+    "app.js.map": "/AWAdminPortal_Test2/static/js/app.983ee656.chunk.js.map",
     "runtime~app.js": "/AWAdminPortal_Test2/static/js/runtime~app.cb952cc0.js",
     "runtime~app.js.map": "/AWAdminPortal_Test2/static/js/runtime~app.cb952cc0.js.map",
-    "static/js/2.9f9e9e6f.chunk.js": "/AWAdminPortal_Test2/static/js/2.9f9e9e6f.chunk.js",
-    "static/js/2.9f9e9e6f.chunk.js.map": "/AWAdminPortal_Test2/static/js/2.9f9e9e6f.chunk.js.map",
+    "static/js/2.b689824c.chunk.js": "/AWAdminPortal_Test2/static/js/2.b689824c.chunk.js",
+    "static/js/2.b689824c.chunk.js.map": "/AWAdminPortal_Test2/static/js/2.b689824c.chunk.js.map",
+    "fonts/AntDesign.ttf": "/AWAdminPortal_Test2/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/AWAdminPortal_Test2/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/AWAdminPortal_Test2/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/AWAdminPortal_Test2/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/AWAdminPortal_Test2/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/AWAdminPortal_Test2/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/AWAdminPortal_Test2/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/AWAdminPortal_Test2/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/AWAdminPortal_Test2/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/AWAdminPortal_Test2/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/AWAdminPortal_Test2/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/AWAdminPortal_Test2/./fonts/SimpleLineIcons.ttf",
     "index.html": "/AWAdminPortal_Test2/index.html",
     "manifest.json": "/AWAdminPortal_Test2/manifest.json",
     "serve.json": "/AWAdminPortal_Test2/serve.json",
-    "static/js/2.9f9e9e6f.chunk.js.LICENSE.txt": "/AWAdminPortal_Test2/static/js/2.9f9e9e6f.chunk.js.LICENSE.txt"
+    "static/js/2.b689824c.chunk.js.LICENSE.txt": "/AWAdminPortal_Test2/static/js/2.b689824c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.cb952cc0.js",
-    "static/js/2.9f9e9e6f.chunk.js",
-    "static/js/app.0219051a.chunk.js"
+    "static/js/2.b689824c.chunk.js",
+    "static/js/app.983ee656.chunk.js"
   ]
 }
