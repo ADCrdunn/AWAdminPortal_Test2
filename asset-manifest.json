@@ -1,0 +1,19 @@
+{
+  "files": {
+    "app.js": "/ADCrdunn/AWAdminPortal_Test2/static/js/app.0219051a.chunk.js",
+    "app.js.map": "/ADCrdunn/AWAdminPortal_Test2/static/js/app.0219051a.chunk.js.map",
+    "runtime~app.js": "/ADCrdunn/AWAdminPortal_Test2/static/js/runtime~app.16f87fce.js",
+    "runtime~app.js.map": "/ADCrdunn/AWAdminPortal_Test2/static/js/runtime~app.16f87fce.js.map",
+    "static/js/2.93ce4d6f.chunk.js": "/ADCrdunn/AWAdminPortal_Test2/static/js/2.93ce4d6f.chunk.js",
+    "static/js/2.93ce4d6f.chunk.js.map": "/ADCrdunn/AWAdminPortal_Test2/static/js/2.93ce4d6f.chunk.js.map",
+    "index.html": "/ADCrdunn/AWAdminPortal_Test2/index.html",
+    "manifest.json": "/ADCrdunn/AWAdminPortal_Test2/manifest.json",
+    "serve.json": "/ADCrdunn/AWAdminPortal_Test2/serve.json",
+    "static/js/2.93ce4d6f.chunk.js.LICENSE.txt": "/ADCrdunn/AWAdminPortal_Test2/static/js/2.93ce4d6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.16f87fce.js",
+    "static/js/2.93ce4d6f.chunk.js",
+    "static/js/app.0219051a.chunk.js"
+  ]
+}
